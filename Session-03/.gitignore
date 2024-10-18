@@ -1,0 +1,4 @@
+# put here all the code or directories which can be recovered or download later while deloying our project or pushing code to gitHub or production.
+
+/node_modules
+

@@ -1,0 +1,11 @@
+.app h1{
+    font-size: 3rem;
+}
+.app ol li{
+    font-size: 2rem;
+}
+
+.done{
+    color: red;
+    font-style: italic;
+}

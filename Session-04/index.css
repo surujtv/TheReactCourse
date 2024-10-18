@@ -1,0 +1,11 @@
+#heading{
+    color: red;
+    font-size: 2rem;
+    /* font-style: italic; */
+}
+
+.container p{
+    font-size: 1.5rem;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+} 
